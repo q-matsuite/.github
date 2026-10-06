@@ -76,12 +76,12 @@ to propose ideas or ask questions.
 | Core schema (`QMatEntry`, `HamiltonianMetadata`, …) | v0.1; a v0.2 proposal is open for discussion |
 | JSON I/O: write and read back, strictly validated | Available |
 | Plane-wave utilities | Available |
-| Materials Project adapter | Available; validated against the live API for Si, GaN and LiCoO₂ |
+| Materials Project adapter | Available; validated against the live API for six Tier-1 materials |
 | Plugin registry for adapters and exporters | Available |
 | OQMD adapter | Stub |
 | OPTIMADE adapter | Planned |
 | Hamiltonian exporters | Planned |
 | Resource estimation hooks | Planned |
 
-Install with `pip install qmatbridge` (0.2.0 is on [PyPI](https://pypi.org/project/qmatbridge/)). See the
+Install with `pip install qmatbridge` (latest release on [PyPI](https://pypi.org/project/qmatbridge/)). See the
 [roadmap](https://github.com/q-matsuite/qmatbridge#roadmap).
